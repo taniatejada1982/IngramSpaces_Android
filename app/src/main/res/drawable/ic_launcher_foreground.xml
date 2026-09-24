@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Ingram Micro Cyan square -->
+    <path
+        android:fillColor="#0091FF"
+        android:pathData="M32,32h44v44h-44z" />
+    <!-- White Inner Core -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,40h6v28h-6z M50,40h6l6,16l6,-16h6v28h-6v-18l-6,16h-1l-6,-16v18h-5z" />
+</vector>

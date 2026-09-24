@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Ingram Spaces</string>
+    <string name="sede_central">Sede Central Lima · Torre San Isidro</string>
+    <string name="welcome_back">Bienvenido de vuelta</string>
+    <string name="login_description">Inicia sesión con tus credenciales corporativas para gestionar salas, escritorios y visitas en tiempo real.</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_navy">#002358</color>
+    <color name="primary_navy_dark">#001C39</color>
+    <color name="accent_blue">#005DA7</color>
+    <color name="accent_cyan">#0091FF</color>
+    <color name="surface_bg">#F8F9FF</color>
+    <color name="surface_card">#FFFFFF</color>
+    <color name="surface_subtle">#EFF4FF</color>
+    <color name="text_primary">#0B1C30</color>
+    <color name="text_secondary">#434751</color>
+    <color name="status_green_bg">#ECFDF5</color>
+    <color name="status_green_text">#059669</color>
+</resources>
